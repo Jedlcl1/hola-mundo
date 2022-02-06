@@ -1,5 +1,5 @@
 # hola-mundo
-Mi primer repositorio de prueba
+Mi primer repositorio.
 
 Autor: José Emmanuel
 Fecha 5 de Febrero.
